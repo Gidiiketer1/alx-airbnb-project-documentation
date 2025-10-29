@@ -1,0 +1,9 @@
+User → [1. User Login] → Authentication System  
+Authentication System → [2. Search Property] → Property Database  
+User → [3. View Property Details] → Property Database  
+User → [4. Book Property] → Booking System  
+Booking System → [5. Process Payment] → Payment Gateway  
+Payment Gateway → [6. Payment Confirmation] → Booking System  
+Booking System → [7. Save Booking Record] → Booking Database  
+Booking Database → [8. Confirmation Sent] → User  
+
