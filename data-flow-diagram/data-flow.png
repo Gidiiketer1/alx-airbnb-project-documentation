@@ -1,1 +1,7 @@
+create this
+User → [1. User Management] → User Database  
+User → [3. Booking System] → Booking Database  
+Property Owner → [2. Property Management] → Property Database  
+Booking System → [4. Payment Processing] → Payment Gateway  
+Payment Gateway → [4. Payment Processing] → Payment Records  
 
